@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(200, 141, 252, 0.372);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 75px;
+    color: rgb(108, 35, 58);
+    text-align: center;
+    padding-top: 10%;
+}
+
+h4{
+    font-size: 30px;
+    color: rgba(145, 87, 87, 0.865);
+    padding-top: 3%;
+}
+
+p{
+    font-size: 20px;
+    padding-top: 5%;
+}
+
+#saveURLnote{
+    font-size: 16px;
+    padding-top: 0%;
+    color: rgb(167, 113, 131);
+}
+
+button{
+    text-align: center;
+    color: rgb(108, 35, 58);
+}
+
+ol{
+    text-align:left;
+    padding-left: 25%;
+}
+
+a{
+    color: brown;
+}
